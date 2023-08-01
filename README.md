@@ -18,6 +18,6 @@ MAML, or Model-Agnostic Meta-Learning, is a model and task-agnostic algorithm fo
 
 
 ## Team members
-  1. Amir Ezzati
-  2. Amir kasaei
+  1. Amir Kasaei
+  2. Amir Ezzati
   3. Amin Daemdoost
